@@ -1,0 +1,9 @@
+{
+	"name": "adfdev2025v1",
+	"location": "centralus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "4423cab6-03a5-4844-8074-4e4630b4bbe9",
+		"tenantId": "0cad1c07-99ad-43cf-85a5-7d1fd0f70ade"
+	}
+}
